@@ -36,7 +36,7 @@ Este projeto é o desenvolvimento inicial de um jogo de Super Trunfo com o tema 
 Para dúvidas ou sugestões, entre em contato com:
 
 Caio Mateus Dos Santos Dias  
-Email: seu.email@exemplo.com
+Email: caionobot@gmail.com
 
 ---
 
