@@ -12,7 +12,7 @@ Este projeto é o desenvolvimento inicial de um jogo de Super Trunfo com o tema 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cartas-super-trunfo.git
+   git clone https://github.com/caiomt05/super-trunfo-cidades.git
    ```
 
 2. Compile o código (exemplo usando gcc):
